@@ -1,0 +1,8 @@
+{
+  "name": "ios-webview-shared-reproduction",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

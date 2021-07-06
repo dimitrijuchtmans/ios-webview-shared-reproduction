@@ -1,0 +1,11 @@
+{
+	"appId": "be.acerta.app.acc",
+	"appName": "ios-webview-shared-reproduction",
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchAutoHide": false
+		}
+	},
+	"bundledWebRuntime": false
+}
